@@ -1,4 +1,1 @@
-### this is an app that encourages
-* community
-* learning
-* releasing your art
+[No, read ME!](https://github.com/stephenplusplus/taptapship/wiki/tap-tap-huh%3F)
